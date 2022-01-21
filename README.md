@@ -21,3 +21,12 @@ The purpose of the this project is to analyze the results of an  election in a  
   
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   * Dian DeGette won the election 73.81% of total votes.She recieved a total of 272,892 votes.
+
+## Election-Audit Summary
+
+This script can be be used with some modifcations for any type of elections that contain the data of name of voter, the place they are voting from, and the person they voted for. The following are two examples of how this script could be modifed to serve a different purpose and determine results.
+
+### Example 1 
+An example of how this could be modifed to serve a different purpose would be to determine the winner of an election not held in a central location. Instead of having data for the different citfrom, there could be data from how they voted. Example being via email, Google Doc, forum vote, and so on. 
+
+### Example 2
