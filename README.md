@@ -13,7 +13,7 @@ The purpose of the this project is to analyze the results of an  election in a  
   * Denver: 82.8% with 306,055 votes
   * Arapahoe: 6.7% with 24,801 votes
 * Which county had the largest number of votes? 
-  *Denver
+  * Denver
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   * Charles Casper Stockham has  23.0% of total votes with 85,213 votes
   * Diana DeGette has  73.8% of total votes with 272,892 votes
