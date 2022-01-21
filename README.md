@@ -7,6 +7,9 @@ The purpose of this election audit analysis is to discover the results of an ele
 ## Election-Audit Results:
 
 ### Below is a summary of the results of the election.
+
+The "PyPollChallenge.py" file gives the output for the questions below to be answered.
+
 * How many votes were cast in this congressional election? 
   * 369,711 votes
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -22,6 +25,11 @@ The purpose of this election audit analysis is to discover the results of an ele
   
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   * Dian DeGette won the election 73.81% of total votes. She received a total of 272,892 votes.
+
+ The image below is what the txt file "election_Analysis.txt" outputs when the PyPollChallenge.py script is run.
+ 
+ ![image](https://user-images.githubusercontent.com/96553992/150611851-ed19e4d5-5ba5-4e92-b02f-e968a0089769.png)
+
 
 ## Election-Audit Summary
 
