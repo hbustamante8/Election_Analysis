@@ -26,7 +26,7 @@ The "PyPollChallenge.py" file gives the output for the questions below to be ans
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   * Dian DeGette won the election 73.81% of total votes. She received a total of 272,892 votes.
 
- The image below is what the txt file "election_Analysis.txt" outputs when the PyPollChallenge.py script is run.
+ The image below is what the txt file "election_analysis.txt" outputs when the PyPollChallenge.py script is run.
  
  ![image](https://user-images.githubusercontent.com/96553992/150611851-ed19e4d5-5ba5-4e92-b02f-e968a0089769.png)
 
