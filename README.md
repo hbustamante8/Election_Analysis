@@ -2,7 +2,7 @@
 
 ## Overview of Elections:
 
-The purpose of this election audit analysis is to discover the results of an election for a U.S. congressional precinct in Colorado. A python script has been created using the panda’s library to determine the outcomes of the election without requiring severe manual work to populate the results. The outcome includes finding out the winning candidate, the total votes, breakdown of votes for each candidate, percentage of each candidate, vote turnout for each county, percentage of votes from each county, and the county with the highest turnout. These insights will then be passed to the Colorado Board of Election Commission to make results official and receive their desired election data request.
+The purpose of this election audit analysis is to discover the results of an election for a U.S. congressional precinct in Colorado. A python script has been created using the panda’s library to determine the outcomes of the election without requiring severe manual work to populate the results. The outcome includes finding out the winning candidate, the total votes, breakdown of votes for each candidate, percentage of each candidate, voter turnout for each county, percentage of votes from each county, and the county with the highest turnout. These insights will then be passed to the Colorado Board of Election Commission to make results official and receive their desired election summary results.
 
 ## Election-Audit Results:
 
@@ -41,5 +41,6 @@ The first example of how this script could be modified to serve a different purp
 ### Example 2
 Another way this script could be used would be for other elections that the Colorado election commission oversees. Similarly, a condensed CSV file with all the election data would be provided for the script to run properly. The script could even be used for a bigger election such as the election of the governor. Instead of county breakdown, a city breakdown could provide in the csv file. Therefore, would just require changing the name of variable names from county to city and renaming the dictionary and list for county. One top of that, the ballot ID and the candidate they voted for would need to be provided in the data file. This would lead to results of what cities certain candidates won, the voter turnout for each city, percentage of total votes for each candidate, and the winner of the governor election. A city election with more at stake and a greater number of voters would be an optimal scenario for the script to be used.
 
-The examples mentioned above are just a few ways this python script could be altered so that time and money could be saved due to less resources required to create a whole new script or process. The possibilities are endless. I strongly recommended leveraging the script to fulfill future elections the Colorado Election Commission will hold.
+### Recommendation
+The examples mentioned above are just a few ways this python script could be altered so that time and money could be saved due to less resources required to create a whole new script or process. Keeping in mind that modifications and the proper data is required, the possibilities are endless. I strongly recommended leveraging the script to analyze future elections that the Colorado Election Commission conducts.
 
